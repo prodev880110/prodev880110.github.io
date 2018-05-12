@@ -1,2 +1,2 @@
 ## AngularJS
-http://atulmy.github.io/angularjs-learning/
+http://prodev880110.github.io/angularjs-learning/
